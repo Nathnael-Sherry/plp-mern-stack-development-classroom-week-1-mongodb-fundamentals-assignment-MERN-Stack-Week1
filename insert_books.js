@@ -131,6 +131,16 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+   {
+    title: 'Goat Matata',
+    author: 'JKF',
+    genre: 'Nursery Books',
+    published_year: 2005,
+    price: 9.99,
+    in_stock: true,
+    pages: 342,
+    publisher: 'Thomas Cautley Newby'
   }
 ];
 
